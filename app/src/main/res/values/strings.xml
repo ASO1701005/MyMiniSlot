@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMiniSlot</string>
+    <string name="str_reset">手持ちRESET</string>
+    <string name="str_main">ミニスロットゲーム</string>
+    <string name="str_up">掛け金UP</string>
+    <string name="str_down">掛け金DOWN</string>
+    <string name="str_start">スタート</string>
+    <string name="str_temoti">手持ちコイン</string>
+    <string name="str_kake">掛け金</string>
+    <string name="str_back">戻る</string>
+    <string name="str_stop">ストップ</string>
+    <string name="str_temotik">1000</string>
+    <string name="str_kakek">10</string>
+</resources>
